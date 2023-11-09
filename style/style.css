@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+article{
+    border: 1px solid grey;
+    min-height: 25vh;
+    padding: 15px;
+    width: 30vw;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
